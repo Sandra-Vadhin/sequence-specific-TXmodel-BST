@@ -19,5 +19,5 @@ This repo holds the code for generating and solving the sequence-specific transc
 - SmoothingSplines
 - Interpolations
 
-To run the MCMC parameter estimation, type `include("TXmodel.jl") ` in the REPL.
+To run the MCMC parameter estimation, type `include("TXmodel.jl")` in the REPL.
 To plot the results: `include("plotsim.jl")`.
